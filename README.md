@@ -1156,4 +1156,4 @@ __📋 מערכת הצטרפות לצוות:__
 
 
 
-bot.run(os.environ[MTM4NzAzODU1NTM4NTM2NDY0Mw.Gbp5lS.sxc9wB6r1v9YfNQMar9qB-lETSEK4JmHXgognE""])
+bot.run(os.environ[ג""])
